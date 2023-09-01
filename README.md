@@ -51,7 +51,8 @@
 Running the below command.
 
 ```bash
-cd redux-demo && node redux-demo.js
+cd redux-demo && npm i
+node redux-demo.js
 ```
 
 You should get this output
